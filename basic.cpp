@@ -16,6 +16,7 @@ int main()
     // size
     cout << st.size() << endl;
     // remove
+    // to check only that stack is empty or not
     st.empty();
     cout << st.size() << endl;
 
