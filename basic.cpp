@@ -13,8 +13,12 @@ int main()
     st.push(20);
     st.push(30);
 
-    // size
-    cout << st.size() << endl;
+    // to delete a element
+    st.pop()
+
+        // size
+        cout
+        << st.size() << endl;
     // remove
     // to check only that stack is empty or not
     st.empty();
